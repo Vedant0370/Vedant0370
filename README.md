@@ -15,7 +15,7 @@
 - 🔥 **Vastu Project** - Client & executive management system.
 
 📈 **GitHub Stats**:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vedant123&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vedant0370&show_icons=true&theme=dark)
 
 📫 **Connect with me**:
 [LinkedIn](https://www.linkedin.com/in/vedant-rajankar/) | [Portfolio](https://vedant-port-folio.vercel.app) | [Email](vedant.0370@gmail.com)

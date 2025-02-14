@@ -50,9 +50,6 @@
 📈 **GitHub Stats**:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vedant0370&show_icons=true&theme=dark)
 
-📈 **GitHub Contributions Graph**:
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Vedant0370&theme=github)
-
 
 📫 **Connect with me**:
 [LinkedIn](https://www.linkedin.com/in/vedant-rajankar/) | [Portfolio](https://vedant-port-folio.vercel.app) | [Email](vedant.0370@gmail.com)

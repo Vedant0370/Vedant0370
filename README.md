@@ -31,9 +31,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 📌 **Latest Projects**:
+- 🛠 **Virtuelite** - Manage multiple events by admin executive and vendors.
+- 🎉 **Glossgenic** - Admin & manager-based car washing center.
 - 🛠 **Interns Bee** - Job portal for students and employers.
-- 🎉 **Event Management System** - Admin & manager-based event booking.
 - 🔥 **Vastu Project** - Client & executive management system.
+- 🎉 **Event Management System** - Admin & manager-based event booking.
 
 
 📌 **Profile**:

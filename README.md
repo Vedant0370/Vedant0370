@@ -3,18 +3,6 @@
 🚀 **MERN Stack Developer | Cloud & DevOps**
 
 💡 **Skills & Technologies**:
-- **Frontend:** React.js, Next.js, JavaScript, TypeScript, HTML, CSS3, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Express.js, Python
-- **Database:** MongoDB, MySQL, PostgreSQL
-- **DevOps & Tools:** Docker, Jenkins, CWP7 Pro Panel, AWS, Nginx
-- **Other Skills:** GraphQL, WebSockets, JWT Authentication
-
-📌 **Latest Projects**:
-- 🛠 **Interns Bee** - Job portal for students and employers.
-- 🎉 **Event Management System** - Admin & manager-based event booking.
-- 🔥 **Vastu Project** - Client & executive management system.
-
-📌 **Languages & Tools Used**:
 📌 **Backend Technologies**:
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
@@ -41,6 +29,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+📌 **Latest Projects**:
+- 🛠 **Interns Bee** - Job portal for students and employers.
+- 🎉 **Event Management System** - Admin & manager-based event booking.
+- 🔥 **Vastu Project** - Client & executive management system.
 
 
 📌 **Profile**:

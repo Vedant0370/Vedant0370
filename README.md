@@ -14,6 +14,10 @@
 - 🎉 **Event Management System** - Admin & manager-based event booking.
 - 🔥 **Vastu Project** - Client & executive management system.
 
+📌 **Languages & Tools Used**:
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 📈 **GitHub Stats**:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vedant0370&show_icons=true&theme=dark)
 
